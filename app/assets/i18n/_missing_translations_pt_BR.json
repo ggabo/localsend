@@ -32,8 +32,8 @@
     "favoriteEditDialog": {
       "titleAdd": "Adicionar aos favoritos",
       "titleEdit": "Ajuste",
-      "name": "Alias",
-      "auto": "(auto)",
+      "name": "Apelido",
+      "auto": "(automático)",
       "ip": "Endereço IP",
       "port": "Porta"
     }
